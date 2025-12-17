@@ -98,7 +98,7 @@ To experience the full capability of the Agentic System:
 * **Mitali Jichkar**
 * **Ekata Mukewar**
 * **Utkarsh Mundhada**
-* **Tanisha**   
+* **Tanisha Chaudhary**   
 
 ---
 
