@@ -94,7 +94,11 @@ To experience the full capability of the Agentic System:
 
 ## 👥 Team
 
-* **Anvay Ghare** - Lead Developer & AI Architect
+* **Anvay Ghare**
+* **Mitali Jichkar**
+* **Ekata Mukewar**
+* **Utkarsh Mundhada**
+* **Tanisha**   
 
 ---
 
