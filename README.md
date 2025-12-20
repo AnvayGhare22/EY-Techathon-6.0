@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Key Features (The "Wow" Factors)
+## 🌟 Key Features
 
 * [cite_start]**🧠 Intelligent Orchestration:** A **Master Agent** dynamically delegates tasks to specialized Worker Agents (Sales, Risk, Verification) based on user intent[cite: 69, 72].
 * [cite_start]**👁️ Multimodal Vision KYC:** The **Verification Agent** uses Computer Vision (Gemini 1.5 Flash) to scan and verify physical ID cards via the webcam[cite: 89].
@@ -79,7 +79,7 @@
 
 ---
 
-## 🎮 How to Demo (The "Winning" Flow)
+## 🎮 How to Demo 
 
 To experience the full capability of the Agentic System:
 
